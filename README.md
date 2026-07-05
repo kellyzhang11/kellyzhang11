@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Kelly 👋
+<h1 align="center">Hi, I'm Kelly </h1>
+
+<!--# Hi, I'm Kelly 👋-->
 
 <!--
 我目前是 XXX 大学 / XXX 实验室的学生，研究方向主要包括：
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- 🎓 I am a Ph.D. student at Xi'an Jiaotong University
+- I am a Ph.D. student at Xi'an Jiaotong University
 
 ## Research Interests
 
